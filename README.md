@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/BMjBdLy.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
+<img src='./misc/walkthrough.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
 
-If for some reason it doesn't show up (may take a while), just use <a href='https://i.imgur.com/UNGrY4b.gif'>this</a> link.
+If for some reason it doesn't show up (may take a while), just use <a href='https://i.imgur.com/UNGrY4b.gif' target="_blank" >this</a> link.
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
